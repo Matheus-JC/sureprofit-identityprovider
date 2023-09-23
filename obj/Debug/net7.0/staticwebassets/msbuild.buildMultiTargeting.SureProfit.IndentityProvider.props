@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SureProfit.IndentityProvider.props" />
+</Project>
